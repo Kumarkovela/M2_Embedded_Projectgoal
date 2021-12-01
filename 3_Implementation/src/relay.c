@@ -1,5 +1,5 @@
 #include <avr/io.h>
-#include"relay.h"
+#include"inc\relay.h"
 
 void relayInit(void)
 {

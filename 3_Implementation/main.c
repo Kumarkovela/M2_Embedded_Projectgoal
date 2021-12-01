@@ -1,8 +1,8 @@
 #define F_CPU 16000000
 
 #include <avr/io.h>
-#include "relay.h"
-#include "switch.h"
+#include "inc\relay.h"
+#include "inc\switch.h"
 
 void relayInit(void);
 void floatSwitchInit(void);

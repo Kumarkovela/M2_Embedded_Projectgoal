@@ -1,4 +1,3 @@
-#include<stdio.h>
 #ifndef RELAY_H_INCLUDE
 #define RELAY_H_INCLUDE
 

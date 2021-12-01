@@ -1,4 +1,4 @@
-#include"/inc/switch.h"
+#include"inc/switch.h"
 #include<avr/io.h>
 
 void floatSwitchInit(void)

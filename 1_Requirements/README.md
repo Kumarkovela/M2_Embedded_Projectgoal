@@ -8,14 +8,19 @@ level.the motor also switch off when the sump water exhausted before it fills.
 
 ##4w's& 1H
  #who
+ 
    automatic refilling a water barrel used for watering a small garden greenhouse.
  #what
+ 
     a water level controller is a device that manages water level on a variety of systems such as a water tanks ,pumps and switching pools.
  #when
+ 
     it directly control water supply and stops according to the level change.it can save more than 60%water.
  #why
+ 
    a water level controller helps save money by limiting the waste of water and electricity.
  #how
+ 
     they work by using sensor probes to indicates the level of water in astorage tank.an alarm is triggered when the probes send information to the controi panel.
     
     ## High level Requirementss
